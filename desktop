@@ -1,6 +1,5 @@
 Gui, Add, Text, xm ym+3, Hotkey:
 Gui, Add, Hotkey, xm+40 ym vHotkeyC w240, % HotkeyCC := "End"
-Hotkey, End, CheckBox
 Gui, Add, Text, xm ym+33, Speed:
 Gui, Add, Edit, xm+40 ym+30 vSpeed w240 ,1
 Gui, Add, CheckBox, xm+200 ym+67 vED gCheckBox, Toggle Script
